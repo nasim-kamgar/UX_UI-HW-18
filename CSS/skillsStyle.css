@@ -72,7 +72,7 @@
     padding: 2px 50px;
     background-color: #7b9196;
     height: 300px;
-    width: 600px;
+    width: 500px;
     margin: 50px;
     justify-content: flex-end;
     position: absolute;
@@ -149,11 +149,11 @@
     padding: 2px 50px;
     background-color: #7b9196;
     height: 300px;
-    width: 600px;
+    width: 500px;
     margin: 50px;
     justify-content: flex-start;
     position: absolute;
-    transform: translate(15%, 50%);
+    transform: translate(15%, 20%);
     color: white;
   }
   .photographyCard p {
